@@ -1,1 +1,2 @@
-# Edward-Lim
+# Hello there,
+# I'm Edward Lim
