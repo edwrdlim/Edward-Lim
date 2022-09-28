@@ -1,2 +1,1 @@
-# Hello there,
-# I'm Edward Lim
+# Hello there, I'm Edward Lim
